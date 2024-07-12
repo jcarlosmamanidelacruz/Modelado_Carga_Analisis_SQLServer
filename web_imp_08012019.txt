@@ -1,0 +1,2 @@
+Pais de Proveniencia|Aduana de Ingreso| Fecha de la Poliza|Partida Arancelaria|Modelo del Vehiculo|Marca|Linea|Centimetros Cubicos|Distintivo|Tipo de Vehiculo|Tipo de Importador|Tipo Combustible|Asientos|Puertas|Tonelaje|Valor CIF|Impuesto
+ESTADOS UNIDOS|EXPRESS AEREO|10/12/2018| 8702107000|2003|FORD|E350 SUPER DUTY|7300|PESADO|BUS|OCASIONAL|DIESEL|20|3|5|19099.28|2291.91|S
